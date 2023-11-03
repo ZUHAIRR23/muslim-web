@@ -155,7 +155,7 @@ header {
     border-radius: 2rem;
     gap: 3rem;
     display: grid;
-    grid-template-columns: repeat(5, 75fr);
+    grid-template-columns: repeat(3, 75fr);
 }
 
 .kotak {
